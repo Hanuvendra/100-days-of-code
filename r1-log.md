@@ -9,3 +9,6 @@ Started a programming after a long interval of time in codechef.
 
 ### R1D2
 Getting started with  (http://www.freecodecamp.org) and tried programming also...
+
+### R1D3
+Started programming again.
