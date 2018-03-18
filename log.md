@@ -30,5 +30,5 @@ Link(s) to work:
 
 Link(s) to work: 
 
-1.Chef__and__Glove[https://www.codechef.com/problems/CHEGLOVE]____Solution[https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/chefandglove.py]
-2.Uniform__Strings[https://www.codechef.com/problems/STRLBP]__Solution[https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Uniform%20Strings.py]
+1.Chef__and__Glove [https://www.codechef.com/problems/CHEGLOVE] Solution [https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/chefandglove.py]
+2.Uniform__Strings [https://www.codechef.com/problems/STRLBP]  Solution [https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Uniform%20Strings.py]
