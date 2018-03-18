@@ -17,7 +17,9 @@ Link(s) to work:
  **Thoughts** I have started coding before some days...But feels quite tuff .... So started HTML in freecodecamp ... Looking quite easy and interesting.
 
 Link(s) to work: 
+
 1.https://www.codechef.com/problems/school
+
 2.https://www.freecodecamp.org/challenges
 
 ### Day 3: March 17,2018 Sunday
@@ -25,3 +27,8 @@ Link(s) to work:
  **Today's Progress**: Solved some questions in codechef and HTML also.
  
  **Thoughts** Started programming after a long time and solved some questions ..
+
+Link(s) to work: 
+
+1.Chef__and__Glove[https://www.codechef.com/problems/CHEGLOVE]____Solution[https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/chefandglove.py]
+2.Uniform__Strings[https://www.codechef.com/problems/STRLBP]__Solution[https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Uniform%20Strings.py]
