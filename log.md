@@ -35,3 +35,5 @@ Link(s) to work:
 2.[Uniform__Strings](https://www.codechef.com/problems/STRLBP)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Uniform%20Strings.py)
 
 3.[Bear_and_Candies123](https://www.codechef.com/problems/CANDY123)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/BearandCandies123.py)
+
+4.[Lazy__Gem](https://www.codechef.com/problems/TALAZY)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/LazyJem.py)
