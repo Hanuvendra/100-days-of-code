@@ -33,3 +33,5 @@ Link(s) to work:
 1.[Chef__and__Glove](https://www.codechef.com/problems/CHEGLOVE)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/chefandglove.py)
 
 2.[Uniform__Strings](https://www.codechef.com/problems/STRLBP)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Uniform%20Strings.py)
+
+3.[Bear_and_Candies123](https://www.codechef.com/problems/CANDY123)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/BearandCandies123.py)
