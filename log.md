@@ -10,13 +10,18 @@ Link(s) to work:
 
 1.https://www.codechef.com/problems/school
 
-### Day : March 1,2018 Thursday 
+### Day 2 : March 1,2018 Thursday 
  
  **Today's Progress**: Tried some questions in Codechef and Started HTML in freecodecamp.
  
  **Thoughts** I have started coding before some days...But feels quite tuff .... So started HTML in freecodecamp ... Looking quite easy and interesting.
 
-Link(s) to work:
-   
-   1.https://www.codechef.com/problems/school
-   2.https://www.freecodecamp.org/challenges
+Link(s) to work: 
+1.https://www.codechef.com/problems/school
+2.https://www.freecodecamp.org/challenges
+
+### Day 3: March 17,2018 Sunday
+
+ **Today's Progress**: Solved some questions in codechef and HTML also.
+ 
+ **Thoughts** Started programming after a long time and solved some questions ..
