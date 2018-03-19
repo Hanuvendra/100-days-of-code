@@ -15,3 +15,6 @@ Started programming again.
 
 ### R1D4
 Done some programming and freecodecamp.
+
+### R1D5
+HTML is looking quite easy ....going on it ....Trying to solve some codechef questions also
