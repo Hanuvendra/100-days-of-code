@@ -37,3 +37,10 @@ Link(s) to work:
 3.[Bear_and_Candies123](https://www.codechef.com/problems/CANDY123)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/BearandCandies123.py)
 
 4.[Lazy__Gem](https://www.codechef.com/problems/TALAZY)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/LazyJem.py)
+
+### Day 4: March 18,2018
+
+**Today's Progress**:Tried some questions and HTML.
+
+**Thoughts** Done programming after a long time..feeling bored and confused...questions are looking to be quite hard..
+
