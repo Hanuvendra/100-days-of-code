@@ -59,3 +59,6 @@ Link(s) to work:
 6.https://www.freecodecamp.org/challenges/add-borders-around-your-elements
 
 7.https://www.freecodecamp.org/challenges/add-rounded-corners-with-a-border-radius
+
+8.https://www.freecodecamp.org/challenges/link-to-external-pages-with-anchor-elements
+
