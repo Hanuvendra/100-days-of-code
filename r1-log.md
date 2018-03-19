@@ -12,3 +12,6 @@ Getting started with  (http://www.freecodecamp.org) and tried programming also..
 
 ### R1D3
 Started programming again.
+
+### R1D4
+Done some programming and freecodecamp.
