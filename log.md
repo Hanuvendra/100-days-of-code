@@ -4,7 +4,7 @@
 
 **Today's Progress**: Submitted a ques. Chef and Cook-off in Codechef.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
  
 Link(s) to work:
 
@@ -14,7 +14,7 @@ Link(s) to work:
  
  **Today's Progress**: Tried some questions in Codechef and Started HTML in freecodecamp.
  
- **Thoughts** I have started coding before some days...But feels quite tuff .... So started HTML in freecodecamp ... Looking quite easy and interesting.
+ **Thoughts**: I have started coding before some days...But feels quite tuff .... So started HTML in freecodecamp ... Looking quite easy and interesting.
 
 Link(s) to work: 
 
@@ -26,7 +26,7 @@ Link(s) to work:
 
  **Today's Progress**: Solved some questions in codechef and HTML also.
  
- **Thoughts** Started programming after a long time and solved some questions ..
+ **Thoughts**: Started programming after a long time and solved some questions ..
 
 Link(s) to work: 
 
@@ -42,5 +42,20 @@ Link(s) to work:
 
 **Today's Progress**:Tried some questions and HTML.
 
-**Thoughts** Done programming after a long time..feeling bored and confused...questions are looking to be quite hard..
+**Thoughts**: Done programming after a long time..feeling bored and confused...questions are looking to be quite hard..
 
+Link(s) to work:
+
+1.[Enormous_input_test](https://www.codechef.com/problems/INTEST)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/EnormousInputTest.py)
+
+2.https://www.freecodecamp.org/challenges/import-a-google-font
+
+3.https://www.freecodecamp.org/challenges/specify-how-fonts-should-degrade
+
+4.https://www.freecodecamp.org/challenges/add-images-to-your-website
+
+5.https://www.freecodecamp.org/challenges/size-your-images
+
+6.https://www.freecodecamp.org/challenges/add-borders-around-your-elements
+
+7.https://www.freecodecamp.org/challenges/add-rounded-corners-with-a-border-radius
