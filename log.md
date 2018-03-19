@@ -62,3 +62,14 @@ Link(s) to work:
 
 8.https://www.freecodecamp.org/challenges/link-to-external-pages-with-anchor-elements
 
+### Day 5: March 19,2018
+
+**Today's Progress**:Tried some questions on HTML.
+
+**Thoughts**: Learning HTML and solved some codechef problems. 
+
+Link(s) to work:
+
+1.[Add_Two_Nmubers](https://www.codechef.com/problems/FLOW001)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/AddTwoNumbers.py)
+
+2.https://www.freecodecamp.org/challenges/nest-an-anchor-element-within-a-paragraph
