@@ -22,7 +22,7 @@ Link(s) to work:
 
 2.https://www.freecodecamp.org/challenges
 
-### Day 3: March 17,2018 Sunday
+### Day 3: March 17,2018 Saturday
 
  **Today's Progress**: Solved some questions in codechef and HTML also.
  
@@ -38,7 +38,7 @@ Link(s) to work:
 
 4.[Lazy__Gem](https://www.codechef.com/problems/TALAZY)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/LazyJem.py)
 
-### Day 4: March 18,2018
+### Day 4: March 18,2018 Sunday 
 
 **Today's Progress**:Tried some questions and HTML.
 
@@ -62,7 +62,7 @@ Link(s) to work:
 
 8.https://www.freecodecamp.org/challenges/link-to-external-pages-with-anchor-elements
 
-### Day 5: March 19,2018
+### Day 5: March 19,2018 Monday
 
 **Today's Progress**:Tried some questions on HTML.
 
@@ -73,3 +73,15 @@ Link(s) to work:
 1.[Add_Two_Nmubers](https://www.codechef.com/problems/FLOW001)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/AddTwoNumbers.py)
 
 2.https://www.freecodecamp.org/challenges/nest-an-anchor-element-within-a-paragraph
+
+3.[Sum_Of_Digits](https://www.codechef.com/problems/FLOW006)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SumofDigits.py)
+
+### Day 6: March 20,2018 Tuesday
+
+**Today's Progress**:Sloved some basic codechef problems.
+
+**Thoughts**: Looking easy to solve basic problems . 
+
+Link(s) to work:
+
+1.[Find_Remainder](https://www.codechef.com/problems/FLOW002)[______Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/FindRemainder.py)
