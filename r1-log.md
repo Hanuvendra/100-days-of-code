@@ -18,3 +18,6 @@ Done some programming and freecodecamp.
 
 ### R1D5
 HTML is looking quite easy ....going on it ....Trying to solve some codechef questions also
+
+### R1D6
+Tried some simple codechef questions
