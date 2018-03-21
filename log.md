@@ -84,4 +84,14 @@ Link(s) to work:
 
 Link(s) to work:
 
-1.[Find_Remainder](https://www.codechef.com/problems/FLOW002)[______Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/FindRemainder.py)
+1.[Find_Remainder](https://www.codechef.com/problems/FLOW002)[______Solution](https://github.com/Hanuvendra/Codechef-PRACTIhttps://www.codechef.com/problems/LUCKFOURC[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/LuckyFour.py) E/blob/master/Beginner-problens/FindRemainder.py)
+
+### Day 7: March 21,2018 Wednesday
+
+**Today's Progress**:Sloved only one question.
+
+**Thoughts**: Quite busy today ... that's why done only one question. 
+
+Link(s) to work:
+
+1.[Lucky_Four](https://www.codechef.com/problems/LUCKFOUR)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/LuckyFour.py) 
