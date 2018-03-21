@@ -21,3 +21,6 @@ HTML is looking quite easy ....going on it ....Trying to solve some codechef que
 
 ### R1D6
 Tried some simple codechef questions
+
+### R1D6 
+Today solved only one question.
