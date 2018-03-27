@@ -24,3 +24,6 @@ Tried some simple codechef questions
 
 ### R1D6 
 Today solved only one question.
+
+### R1D7
+Solved one question only.
