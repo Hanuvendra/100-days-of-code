@@ -95,3 +95,13 @@ Link(s) to work:
 Link(s) to work:
 
 1.[Lucky_Four](https://www.codechef.com/problems/LUCKFOUR)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/LuckyFour.py) 
+
+### Day 8: March 28,2018 Wednesday
+
+**Today's Progress**:Sloved some codechef question.
+
+**Thoughts**: Doing some simple questions only. 
+
+Link(s) to work:
+
+1.[First_and_Last_Digits](https://www.codechef.com/problems/FLOW004)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/FirstandLastDigit.py)
