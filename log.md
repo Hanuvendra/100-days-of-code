@@ -108,4 +108,8 @@ Link(s) to work:
 
 2.[Reverse_The_Number](https://www.codechef.com/problems/FLOW007)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/ReverseTheNumber.py)
 
-3.[Finding_Square_Roots](https://www.codechef.com/problems/FSQRT)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/FindinSquareRoots.py)
+3.[Finding_Square_Roots](https://www.codechef.com/problems/FSQRT)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/FindinSquareRoots.py)
+
+4.[Second_Largest](https://www.codechef.com/problems/FLOW017)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SecondLargest.py)
+
+5.
