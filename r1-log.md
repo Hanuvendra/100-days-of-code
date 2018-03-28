@@ -27,3 +27,6 @@ Today solved only one question.
 
 ### R1D7
 Solved one question only.
+
+### R1D8
+Solved some simple Codechef questions.
