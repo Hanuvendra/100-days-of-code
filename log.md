@@ -112,4 +112,6 @@ Link(s) to work:
 
 4.[Second_Largest](https://www.codechef.com/problems/FLOW017)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SecondLargest.py)
 
-5.
+5.[Small_Factorial](https://www.codechef.com/problems/FLOW018)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SmallFactorial.py)
+
+6.[Servant](https://www.codechef.com/problems/FLOW008)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Servant.py)
