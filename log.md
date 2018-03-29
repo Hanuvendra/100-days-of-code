@@ -127,3 +127,5 @@ Link(s) to work:
 1.[Smallest_Number_of_Notes](https://www.codechef.com/problems/FLOW005)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SmallestNumberofNotes.py)
 
 2.[Valid Triangles](https://www.codechef.com/problems/FLOW013)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/ValidTriangles.py)
+
+3.[The_Block_Game](https://www.codechef.com/problems/PALL01)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TheBlockGame.py)
