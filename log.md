@@ -131,3 +131,5 @@ Link(s) to work:
 3.[The_Block_Game](https://www.codechef.com/problems/PALL01)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TheBlockGame.py)
 
 4.[Primality_Test](https://www.codechef.com/problems/PRB01)[__Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/PrimalityTest.py)
+
+5.[The_Smallest_Pair](https://www.codechef.com/problems/SMPAIR)[__Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TheSmallestPair.py)
