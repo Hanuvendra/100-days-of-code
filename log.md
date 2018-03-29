@@ -115,3 +115,13 @@ Link(s) to work:
 5.[Small_Factorial](https://www.codechef.com/problems/FLOW018)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SmallFactorial.py)
 
 6.[Servant](https://www.codechef.com/problems/FLOW008)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Servant.py)
+
+### Day 9: March 29,2018 Thursday
+
+**Today's Progress**:Sloved some codechef question.
+
+**Thoughts**: Trying some questions. 
+
+Link(s) to work:
+
+1.[Smallest_Number_of_Notes](https://www.codechef.com/problems/FLOW005)[____Solution]()
