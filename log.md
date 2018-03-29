@@ -155,3 +155,5 @@ Link(s) to work:
 6.[Tanu_and_Head_Bob](https://www.codechef.com/problems/HEADBOB)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TanuandHeadBob.py)
 
 7.[GCD_and_LCM](https://www.codechef.com/problems/FLOW016)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/GCDandLCM.py)
+
+8.[Gross_Salary]()[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/GrossSalary.py)
