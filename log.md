@@ -124,4 +124,4 @@ Link(s) to work:
 
 Link(s) to work:
 
-1.[Smallest_Number_of_Notes](https://www.codechef.com/problems/FLOW005)[____Solution]()
+1.[Smallest_Number_of_Notes](https://www.codechef.com/problems/FLOW005)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/SmallestNumberofNotes.py)
