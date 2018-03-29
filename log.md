@@ -133,3 +133,25 @@ Link(s) to work:
 4.[Primality_Test](https://www.codechef.com/problems/PRB01)[__Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/PrimalityTest.py)
 
 5.[The_Smallest_Pair](https://www.codechef.com/problems/SMPAIR)[__Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TheSmallestPair.py)
+
+### Day 10: March 30,2018 Friday
+
+**Today's Progress**:Sloved some codechef question.
+
+**Thoughts**: Trying some questions. 
+
+Link(s) to work:
+
+1.[Fit_Squares_in_Triangles](https://www.codechef.com/problems/TRISQ)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/FitSquaresinTriangles.py)
+
+2.[Id_and_Ship](https://www.codechef.com/problems/FLOW010)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/IdandShip.py)
+
+3.[Mahasena](https://www.codechef.com/problems/AMR15A)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/Mahasena.py)
+
+4.[Chef_and_Operators](https://www.codechef.com/problems/CHOPRT)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/ChefandOperators.py)
+
+5.[Total_Expenses](https://www.codechef.com/problems/FLOW009)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TotalExpenses.py)
+
+6.[Tanu_and_Head_Bob](https://www.codechef.com/problems/HEADBOB)[___Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TanuandHeadBob.py)
+
+7.[GCD_and_LCM](https://www.codechef.com/problems/FLOW016)[____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/GCDandLCM.py)
