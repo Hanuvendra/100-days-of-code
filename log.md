@@ -129,3 +129,5 @@ Link(s) to work:
 2.[Valid Triangles](https://www.codechef.com/problems/FLOW013)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/ValidTriangles.py)
 
 3.[The_Block_Game](https://www.codechef.com/problems/PALL01)[_____Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/TheBlockGame.py)
+
+4.[Primality_Test](https://www.codechef.com/problems/PRB01)[__Solution](https://github.com/Hanuvendra/Codechef-PRACTICE/blob/master/Beginner-problens/PrimalityTest.py)
